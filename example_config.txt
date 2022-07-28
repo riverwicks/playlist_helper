@@ -1,0 +1,5 @@
+username
+playlist_id
+scope
+starttime
+crossfade_length
